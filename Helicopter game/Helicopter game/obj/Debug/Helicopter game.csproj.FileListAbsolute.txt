@@ -1,0 +1,10 @@
+C:\Users\Ron's pc\source\repos\Helicopter game\Helicopter game\bin\Debug\Helicopter game.exe.config
+C:\Users\Ron's pc\source\repos\Helicopter game\Helicopter game\bin\Debug\Helicopter game.exe
+C:\Users\Ron's pc\source\repos\Helicopter game\Helicopter game\bin\Debug\Helicopter game.pdb
+C:\Users\Ron's pc\source\repos\Helicopter game\Helicopter game\obj\Debug\Helicopter game.csprojAssemblyReference.cache
+C:\Users\Ron's pc\source\repos\Helicopter game\Helicopter game\obj\Debug\Helicopter_game.Form1.resources
+C:\Users\Ron's pc\source\repos\Helicopter game\Helicopter game\obj\Debug\Helicopter_game.Properties.Resources.resources
+C:\Users\Ron's pc\source\repos\Helicopter game\Helicopter game\obj\Debug\Helicopter game.csproj.GenerateResource.cache
+C:\Users\Ron's pc\source\repos\Helicopter game\Helicopter game\obj\Debug\Helicopter game.csproj.CoreCompileInputs.cache
+C:\Users\Ron's pc\source\repos\Helicopter game\Helicopter game\obj\Debug\Helicopter game.exe
+C:\Users\Ron's pc\source\repos\Helicopter game\Helicopter game\obj\Debug\Helicopter game.pdb
